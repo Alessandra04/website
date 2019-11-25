@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color:tomato
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: tomato
     text-align: center;
 }
 
@@ -46,8 +46,12 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: cadetblue
     text-decoration: none;
+}
+
+.top5 {
+    color: tomato
 }
 
 a:hover {
@@ -60,28 +64,28 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
     overflow: hidden;
 }
 
 nav ul li {
     float: left;
+    background-color: lavender;
 }
 
 nav li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none; 
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: thistle;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: lavender;
 }
 
 
