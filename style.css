@@ -33,6 +33,10 @@ footer {
     padding-bottom: 10px;
 }
 
+h3 {
+    color:
+}
+
 
 /* specifieke stijlen */
 
@@ -81,7 +85,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: thistle;
+    background-color: lightcyan;
 }
 
 nav li a.active {
