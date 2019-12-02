@@ -23,10 +23,13 @@ article {
 
 
 header {
-    color: tomato
+    color: tomato;
     text-align: center;
 }
 
+article {
+    text-align: center;
+}
 
 footer {
     text-align: center;
@@ -35,6 +38,10 @@ footer {
 
 h3 {
     color:
+}
+
+h1 {
+    color: tomato;
 }
 
 
@@ -72,20 +79,20 @@ nav ul {
 }
 
 nav ul li {
-    float: left;
     background-color: lavender;
+    float: left;
+    text-align: center;
 }
 
 nav li a {
     display: block;
     color: black;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none; 
 }
 
 nav li a:hover {
-    background-color: lightcyan;
+    background-color: tomato;
 }
 
 nav li a.active {
