@@ -71,15 +71,21 @@ a:hover {
 
 
 /* navigatiebalk */
+nav {
+     border: 1px solid blue; 
+}
 nav ul {
+    border: 1px solid black;
     list-style-type: none;
     margin: auto;
     padding: 0;
     overflow: hidden;
+    width: 100%;
 }
 
 nav ul li {
     background-color: lavender;
+    width: 16.666%;
     float: left;
     text-align: center;
 }
@@ -99,6 +105,8 @@ nav li a.active {
     background-color: lavender;
 }
 
-
+.clear {
+    clear: both;
+}
 
 
