@@ -72,8 +72,10 @@ a:hover {
 
 /* navigatiebalk */
 nav {
-     border: 1px solid blue; 
+     border: 1px solid blue;
+
 }
+
 nav ul {
     border: 1px solid black;
     list-style-type: none;
@@ -81,11 +83,14 @@ nav ul {
     padding: 0;
     overflow: hidden;
     width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 nav ul li {
     background-color: lavender;
-    width: 16.666%;
+
+    width: 16.7%;
     float: left;
     text-align: center;
 }
