@@ -16,12 +16,6 @@ main {
     position: relative;
 }
 
-
-article {
-    text-align: justify;
-}
-
-
 header {
     color: tomato;
     text-align: center;
@@ -29,6 +23,7 @@ header {
 
 article {
     text-align: center;
+    background-image: url(white.brickewall.html.jpeg)
 }
 
 footer {
@@ -72,12 +67,11 @@ a:hover {
 
 /* navigatiebalk */
 nav {
-     border: 1px solid blue;
+     border: 2px solid rgb(245, 102, 66);
 
 }
 
 nav ul {
-    border: 1px solid black;
     list-style-type: none;
     margin: auto;
     padding: 0;
