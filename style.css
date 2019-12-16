@@ -31,8 +31,20 @@ footer {
     padding-bottom: 10px;
 }
 
+h4{
+    color: tomato;
+}
+
 h3 {
-    color: tomato
+    color: tomato;
+}
+
+#bezienswaardigheden.milaan {
+    text-decoration: underline;
+}
+
+h2 {
+    color: tomato;
 }
 
 h1 {
@@ -62,6 +74,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+#duomoafb{
+    float: right;
 }
 
 
