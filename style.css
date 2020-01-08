@@ -75,6 +75,7 @@ a:hover {
 }
 
 
+
 /* navigatiebalk */
 nav {
      border: 2px solid rgb(245, 102, 66);
@@ -115,5 +116,3 @@ nav li a.active {
 .clear {
     clear: both;
 }
-
-
