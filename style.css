@@ -31,14 +31,11 @@ footer {
 
 h4{
     color: tomato;
+    border-top: 1px solid black;
 }
 
 h3 {
     color: tomato;
-}
-
-#bezienswaardigheden.milaan {
-    text-decoration: underline;
 }
 
 h2 {
@@ -71,7 +68,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    border-top: 1px solid black;
 }
 
 
